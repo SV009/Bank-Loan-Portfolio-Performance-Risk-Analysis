@@ -40,7 +40,7 @@ A bank needs to monitor loan origination, funding, and repayments. The goal:
 ## ⚙️ How It Works
 
 1. **Data Extraction**:  
-   - See [`sql/SQL_Outputs_For_Quality_Analysis.docx`](sql/SQL_Outputs_For_Quality_Analysis.docx) for queries.
+   - See [`sql/SQL_Outputs_For_Quality_Analysis.docx`](sql/SQL_Outputs_For_Quality_Analysis.pdf) for queries.
    - Source: [`data/financial_loan.csv`](data/financial_loan.csv)
 
 
