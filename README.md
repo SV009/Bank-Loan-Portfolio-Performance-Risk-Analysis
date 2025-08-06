@@ -65,8 +65,12 @@ Includes information such as borrower state and loan purpose, supporting regiona
 
 ---
 
+## Executive Summary:
+
+Our analysis shows that 86.2% of loans are either fully paid or current, representing $435.8M in funded loans with strong repayment performance. However, 13.8% of loans—primarily Grade E-G and debt consolidation products—are classified as bad or charged off, accounting for $65.5M in higher-risk exposure. The portfolio’s healthiest growth comes from Grade A-C borrowers in states like California and Texas. To sustain profitability, we recommend expanding in these high-performing segments and increasing oversight on lower-grade and high-DTI loans to mitigate future losses.
 ## How It Works
 
+---
 1. **Data Extraction**:  
    - See [`sql/SQL_Outputs_For_Quality_Analysis.docx`](sql/SQL_Outputs_For_Quality_Analysis.pdf) for queries.
    - Source: [`data/financial_loan.csv`](data/financial_loan.csv)
