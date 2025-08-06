@@ -1,11 +1,12 @@
-# Bank-Loan-Portfolio-Performance-Risk-Analysis
-Interactive analytics project using SQL and Tableau to monitor bank loan performance. Visualizes KPIs, tracks trends, segments risk, and delivers actionable business insights for loan origination, funding, repayment, and portfolio health.
-
+# Bank-Loan-Portfolio-Performance-Risk-Analysis (2021)
+I
 
 
 ## Project Overview
 
-A full-stack analytics solution for monitoring and assessing a bank's loan portfolio. Built with **SQL** for data extraction and **Tableau** for interactive dashboards, this project enables data-driven decision-making by tracking loan performance, identifying risks, and uncovering business trends.
+Analyzed 38,000+ bank loan records from 2021 to evaluate trends in loan applications, funded amounts, repayments, and debt-to-income ratios across customer segments and states. Built three dashboards to monitor total applications, funded and received amounts, interest rates, DTI, and the proportion of good versus bad loans. Found that most loans are healthy, but higher risk is concentrated in lower-grade segments and debt consolidation loans.
+
+
 
 > **Live Demo:** [View on Tableau Public](https://public.tableau.com/app/profile/surya.vamshi/viz/Bank_Loan_Project_17449475966680/Intro?publish=yes)
 
