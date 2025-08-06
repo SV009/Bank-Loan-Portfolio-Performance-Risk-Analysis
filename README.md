@@ -28,12 +28,20 @@ A bank needs to monitor loan origination, funding, and repayments. The goal:
 
 ---
 
-## 🔍 Key Features
+## 🔍 Objectives 
 
-- **Summary Dashboard:** Snapshot of KPIs and portfolio health
-- **Overview Dashboard:** Trends by month, region, purpose, employment, home ownership
-- **Details Dashboard:** Filterable loan-level analysis
-- **Business Insights:** Actionable recommendations for risk and growth
+Objectives of Each Dashboard
+
+1. Summary Dashboard:
+To provide an at-a-glance overview of the bank’s lending portfolio, including total loan applications, funded and received amounts, interest rates, and the overall distribution of good and bad loans. This helps decision-makers quickly assess portfolio health and recent performance trends.
+
+2. Overview Dashboard:
+To break down loan performance and funding trends by different segments—such as state, loan purpose, employee length, and home ownership. This dashboard uncovers patterns and highlights growth opportunities or emerging risks across borrower demographics and regions.
+
+3. Details Dashboard:
+To enable granular analysis of individual loan records with comprehensive filters. This dashboard supports deep dives into specific loans, facilitating validation, audit, or in-depth risk analysis at the transaction level.
+
+4. Business Insights: Actionable recommendations for risk and growth
 
 ---
 
